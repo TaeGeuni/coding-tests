@@ -1,5 +1,5 @@
 # 랜선 자르기 문제 풀이
-👉🏻[문제 링크](https://www.acmicpc.net/problem/1654)
+👉🏻<a href="https://www.acmicpc.net/problem/1654" target="_blank">문제 링크</a>
 ## 📌 문제 설명
 - 오영식은 K개의 랜선을 가지고 있으며, 이를 N개의 같은 길이 랜선으로 잘라야 합니다.
 - 랜선을 자를 때 손실되는 길이는 없으며, 자른 랜선은 다시 붙일 수 없습니다.
