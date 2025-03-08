@@ -11,6 +11,8 @@
 
 입력으로 주어진 괄호 표현에서 잘려진 쇠막대기 조각의 총 개수를 구하는 프로그램을 작성한다.
 
+![이미지 URL](https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10799/1.png)
+
 ## 입력
 - 괄호로 이루어진 문자열이 주어진다. (최대 길이: 100,000)
 
